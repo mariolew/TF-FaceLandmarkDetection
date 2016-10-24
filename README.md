@@ -6,7 +6,7 @@ Reproduction of the paper **Deep Convolutional Network Cascade for Facial Point 
 ## Usage
 
 - git clone https://github.com/mariolew/TF-FaceLandmarkDetection/edit/master
-- Prepare data: You should have a text file, each line of the text file should have the format: image_path bbx_left bbx_right bbx_top bbx_bottom
+- Prepare data: You should have a text file, each line of the text file should have the format: image_path bbx_left bbx_right bbx_top bbx_bottom landmark1_x landmark1_y ... landmarki_x landmarki_y
 - Modify the text file path and the path to store augmented images in **augment.py** and do *python3 augment.py*
 - Modify some paths and params in **model_train.py** and do *python3 model_train.py* to train a face alignment model
 - Modify some paths and params in **model_eval.py** and do *python3 model_eval.py* to evaluate the trained model
