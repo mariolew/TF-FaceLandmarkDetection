@@ -15,7 +15,7 @@ Reproduction of the paper **Deep Convolutional Network Cascade for Facial Point 
 
 This repo is based on https://github.com/luoyetx/deep-landmark and https://github.com/pkmital/CADL and is still ongoing.
 
-## Achivements
+## Achievements
 
 Level1: Done
 
