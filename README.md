@@ -3,6 +3,11 @@
 Face landmark detection using tensorflow
 Reproduction of the paper **Deep Convolutional Network Cascade for Facial Point Detection**
 
+## Requirements
+
+- Python 3.4
+- Tensorflow 0.10.0
+
 ## Usage
 
 - git clone https://github.com/mariolew/TF-FaceLandmarkDetection/edit/master
